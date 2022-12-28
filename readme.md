@@ -11,7 +11,6 @@ By prajwal zingare
 
 
 ![javascript](https://img.shields.io/badge/javascript---jokesgenerator--Clone-orange)
-![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
 ---
 
