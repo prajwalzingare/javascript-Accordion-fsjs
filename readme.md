@@ -1,7 +1,7 @@
 # javascript-Accordion-fsjs
 By prajwal zingare
 
- ![hitesh choudhary](https://img.shields.io/badge/Prajwal--Zingare-JS--Devloper-green)
+ ![hitesh choudhary](https://img.shields.io/badge/Prajwal--Zingare-JS--Developer-green)
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-JS--bootcamp-red)
